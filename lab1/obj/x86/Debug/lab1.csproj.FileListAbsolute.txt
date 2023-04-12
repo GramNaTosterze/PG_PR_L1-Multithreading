@@ -1,0 +1,5 @@
+/home/krzysiu/Projects/lab1/lab1/bin/Debug/lab1.exe
+/home/krzysiu/Projects/lab1/lab1/bin/Debug/lab1.pdb
+/home/krzysiu/Projects/lab1/lab1/obj/x86/Debug/lab1.csproj.CoreCompileInputs.cache
+/home/krzysiu/Projects/lab1/lab1/obj/x86/Debug/lab1.exe
+/home/krzysiu/Projects/lab1/lab1/obj/x86/Debug/lab1.pdb
